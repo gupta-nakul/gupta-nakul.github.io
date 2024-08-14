@@ -16,5 +16,3 @@ Retrieval, Computer Networks
 - Created a Data Retention Plugin to retain data in an H2 database based on specified time intervals. This optimized data retention for transfer between the cloud and the server.
 - Managed the design, development, and load testing of the MQTT Protocol flow to receive data from smart meters/devices and send back commands using Java and Spring Boot-based REST APIs. Established the entire MQTT pipeline to start receiving around 1,000,000 data points from NEOM.
 - Refactored Spring Boot-based REST APIs to update the MongoDB database, enhancing my debugging and troubleshooting skills. This optimization facilitated future updates to the APIs.
-
-## Projects
