@@ -1,4 +1,7 @@
 title: Nakul Gupta
 #logo: /assets/img/IMG_7589.JPG
 logo: /assets/img/profile-photo.png
+image:
+  height: 500px
+  width: auto
 theme: jekyll-theme-minimal
