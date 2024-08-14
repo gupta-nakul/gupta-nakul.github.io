@@ -1,1 +1,4 @@
-# gupta-nakul.github.io
+# Data Science Student
+
+## Education
+### Purdue University
