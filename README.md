@@ -26,6 +26,8 @@
 - Balanced the dataset using the SMOTE technique and weight balancing based on the minority class.
 - Implemented and tuned XGBoost and LightGBM to achieve optimal classification accuracy of 89% and a high precision value of 85% which was a priority to classify as many fraudulent transactions as possible.
 
+---
+
 **Metaphor Detection**, CSCI 578 **(_October 2023 - December 2023_)**
 - Performed data preprocessing and Exploratory Data Analysis (EDA) to clean and understand the data.
 - Utilized Word2Vec and BERT embeddings to capture semantic meaning and context of the sentence.
