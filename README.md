@@ -1,5 +1,12 @@
 # Data Science Student
 
+## Soft Skills
+- Problem Solving
+- Effective Communication
+- Teamwork and Collaboration
+- Meticulous
+- Curious to learn
+
 ## Education
 **M.S., Computational Data Science	| Purdue University (_May 2025_)**
 - Relevant Coursework includes Statistical Machine Learning, Data Mining, Deep Learning, Time Series and Applications, Applied Decision Theory and Bayesian Statistics
@@ -34,3 +41,32 @@
 - Developed multiple ML models, including XGBoost and Logistic Regression, to identify metaphors in text.
 - Implemented Bidirectional LSTM as the hero model to leverage sequential information and achieve superior
 performance in identifying metaphors.
+
+## Technical Skills
+**Languages**
+- Python
+- R
+- SQL
+- Java
+
+**Technologies**
+- Numpy
+- Pandas
+- Tensorflow
+- Keras
+- PyTorch
+- scikit-learn
+- Jupyter Notebook
+- Seaborn
+- Matplotlib
+- NLTK
+- Large Language Models (LLMs)
+- Natural Language Processing (NLP)
+- Machine Learning (ML)
+- Deep Learning (DL)
+- Regression analysis
+- Clustering techniques
+- KNN
+- Maven
+- RESTful API
+- Spring boot framework
