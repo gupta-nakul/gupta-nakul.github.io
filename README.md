@@ -17,14 +17,20 @@
 - Relevant Coursework includes Linear Algebra, Probability and Statistics, Calculus, Machine Learning, Information Retrieval, Computer Networks
 
 ## Work Experience
-**Software Engineer @ Scry AI (_June 2021 - July 2023_)**
-- Led the design and development of CoAP Protocol in Java, using Object-Oriented Programming principles and best practices, to receive data from field-deployed sensors, working seamlessly with a team consisting of a Senior Developer and a new Software Engineer.
+**Research Assistant @ Kelley School of Business, Indiana University (_November 2024 - Present_)**
+- Conducted in-depth mediation analysis on forklift maintenance data from a major logistics company, identifying key relationships and patterns to optimize maintenance processes, resulting in a 15% decrease in downtime.
+- Researched mediation analysis methods and assumptions, transforming raw data to fit the model requirements and uncovering insights that led to a 20% increase in efficiency.
+
+---
+
+**Data Engineer @ Scry AI (_June 2021 - July 2023_)**
+- Led the design and development of CoAP Protocol in Java, using Object-Oriented Programming principles and best practices, to reduced data processing time by 30% for the data received from field-deployed sensors, working seamlessly with a team consisting of a Senior Developer and a new Software Engineer.
 - Guided an intern by assigning sub-tasks related to backend improvements, enhancing my skills in people management and task prioritization. Supervised a new Software Engineer, assigning small tasks to familiarize them with the project flow and efficiently transferring knowledge.
-- Created a Data Retention Plugin to retain data in an H2 database based on specified time intervals. This optimized data retention for transfer between the cloud and the server.
-- Managed the design, development, and load testing of the MQTT Protocol flow to receive data from smart meters/devices and send back commands using Java and Spring Boot-based REST APIs. Established the entire MQTT pipeline to start receiving around 1,000,000 data points from NEOM.
+- Designed and implemented a Data Retention Plugin for H2 database (SQL-based), reducing storage overhead and improving query efficiency.
+- Managed the design, development, and testing of the MQTT Protocol flow to process around a million data points received from NEOM's smart meters using using Java, Spring Boot, and Kafka.
 - Refactored Spring Boot-based REST APIs to update the MongoDB database, enhancing my debugging and troubleshooting skills. This optimization facilitated future updates to the APIs.
 
-## Projects
+## Machine Learning Projects
 **Credit Card Fraud Transaction Detection**, CSCI 573 **(_October 2023 - December 2023_)**
 
 [Github](https://github.com/gupta-nakul/fraud-detection)
@@ -39,8 +45,13 @@
 - Performed data preprocessing and Exploratory Data Analysis (EDA) to clean and understand the data.
 - Utilized Word2Vec and BERT embeddings to capture semantic meaning and context of the sentence.
 - Developed multiple ML models, including XGBoost and Logistic Regression, to identify metaphors in text.
-- Implemented Bidirectional LSTM as the hero model to leverage sequential information and achieve superior
-performance in identifying metaphors.
+- Implemented Bidirectional LSTM as the hero model to leverage sequential information and achieve superior performance in identifying metaphors.
+
+## Leadership Experience
+**Senior Supervisor @ Indiana University Testing Center(_January 2024 - Present_)**
+- Trained 10+ proctors, enabling skill development and decision taking; successfully guided 4 to become senior proctors and 2 to transition into supervisory roles within 4 months.
+- Implemented real-time decision-making strategies to efficiently manage up to 1000+ incoming students daily.
+- Boosted operational efficiency by 30% through effective student segregation strategies across multiple labs, reducing wait times and streamlining flow of students.
 
 ## Technical Skills
 **Languages**
