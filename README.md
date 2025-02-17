@@ -123,28 +123,38 @@ Developed a machine learning-based fraud detection system using Logistic Regress
 ## Technical Skills
 **Languages**
 - Python
-- R
-- SQL
 - Java
+- R
+- Cypher
+- SQL
 
 **Technologies**
+- Neo4j
+- PostgreSQL
+- MongoDB
+- Apache Spark
+- Apache Kafka
+- PyTorch
+- Tensorflow
+- Scikit-learn
+- Amazon Sagemaker
+- FastAPI
+- Docker
+- Git
 - Numpy
 - Pandas
-- Tensorflow
-- Keras
-- PyTorch
-- scikit-learn
+- NLTK
 - Jupyter Notebook
 - Seaborn
 - Matplotlib
-- NLTK
+- Maven
+- RESTful API
+- Spring boot Framework
+- Retrievel-Augmented Generation (RAG)
 - Large Language Models (LLMs)
 - Natural Language Processing (NLP)
 - Machine Learning (ML)
 - Deep Learning (DL)
 - Regression analysis
 - Clustering techniques
-- KNN
-- Maven
-- RESTful API
-- Spring boot framework
+- K Nearest Neighbors (KNN)
