@@ -31,7 +31,7 @@
 - Refactored Spring Boot-based REST APIs to update the MongoDB database, enhancing my debugging and troubleshooting skills. This optimization facilitated future updates to the APIs.
 
 ## Artificial Intelligence/Machine Learning Projects
-**Hospital RAG Chatbot with Langchain & Neo4j**, **(_December 2024 - Present)**
+**Hospital RAG Chatbot with Langchain & Neo4j**, **(_December 2024 - Present_)**
 
 [Github](https://github.com/gupta-nakul/langchain-neo4j-rag-chatbot)
 1. AI-Powered Hospital Chatbot for Efficient Healthcare Assistance:
